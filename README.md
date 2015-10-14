@@ -6,7 +6,7 @@
 
 In HTML file:
 
-```
+```html
 <head>
     <!-- As first script! //-->
     <script src="./lib/dratini.js"></script>
@@ -15,7 +15,7 @@ In HTML file:
 
 **WARNING**
 
-To best results please add as first script on the page.
+To get best results please add as first script on the page.
 
 ## Test
 
@@ -23,9 +23,15 @@ To best results please add as first script on the page.
 npm test
 ```
 
+Use Jasmine as test framework.
+
+## Name origin
+
+Use [pokemon.js](https://github.com/piecioshka/pokemon.js) to generated first part of tool name.
+
 ## Contact
 
-Catch me on [@piecioshka](http://twitter.com/piecioshka).
+Catch me on [@piecioshka](http://twitter.com/piecioshka)
 
 ## License
 
