@@ -1,1 +1,12 @@
-{"private": true}
+{
+    "private": true,
+    "name": "dratini-global-namespace",
+    "version": "0.0.1",
+    "description": "Return all custom global properties.",
+    "scripts": {
+        "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+    },
+    "devDependencies": {
+        "jasmine": "^2.3.2"
+    }
+}
