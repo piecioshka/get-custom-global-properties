@@ -1,6 +1,6 @@
 # dratini-global-namespace
 
-> Return all custom global properties.
+:hammer: Return all custom global properties.
 
 ## Usage
 
@@ -23,15 +23,9 @@ To get best results please add as first script on the page.
 npm test
 ```
 
-Use Jasmine as test framework.
-
 ## Name origin
 
-Use [pokemon.js](https://github.com/piecioshka/pokemon.js) to generated first part of tool name.
-
-## Contact
-
-Catch me on [@piecioshka](http://twitter.com/piecioshka)
+Use [pokemon-picker](https://github.com/piecioshka/pokemon-picker) to generated first part of tool name.
 
 ## License
 
