@@ -1,8 +1,8 @@
 {
     "private": true,
-    "name": "dratini-global-namespace",
+    "name": "get-custom-global-properties",
     "version": "0.0.1",
-    "description": "Return all custom global properties.",
+    "description": "Get custom global properties",
     "scripts": {
         "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
     },

@@ -1,4 +1,4 @@
-var lib = require('../../lib/dratini');
+var lib = require('../../src/main');
 
 describe('Library', function () {
     it('should capture all properties', function () {

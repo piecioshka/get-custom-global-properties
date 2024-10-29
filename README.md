@@ -1,6 +1,6 @@
-# dratini-global-namespace
+# get-custom-global-properties
 
-:hammer: Return all custom global properties.
+:hammer: Get custom global properties
 
 ## Usage
 
@@ -9,11 +9,11 @@ In HTML file:
 ```html
 <head>
     <!-- As first script! //-->
-    <script src="./lib/dratini.js"></script>
+    <script src="src/main.js"></script>
 </head>
 ```
 
-**WARNING**
+⚠️ **WARNING**
 
 To get best results please add as first script on the page.
 
@@ -23,10 +23,6 @@ To get best results please add as first script on the page.
 npm test
 ```
 
-## Name origin
-
-Use [pokemon-picker](https://github.com/piecioshka/pokemon-picker) to generated first part of tool name.
-
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org)
+[The MIT License](https://piecioshka.mit-license.org) @ 2015
