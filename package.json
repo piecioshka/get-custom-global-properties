@@ -2,6 +2,7 @@
     "private": true,
     "name": "get-custom-global-properties",
     "version": "0.0.1",
+    "license": "MIT",
     "description": "Get custom global properties",
     "scripts": {
         "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
